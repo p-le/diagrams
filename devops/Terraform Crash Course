@@ -1,1 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T22:21:43.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.1.5" etag="UGHizMaTfcJkgiGXsWp3" type="github"><diagram id="h1lRz2QvuxyAHI0TsxiY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-26T22:31:02.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="UZ1-Ya2g4AESDoZKzuWD" version="17.1.5" type="github" pages="8">
+  <diagram id="h1lRz2QvuxyAHI0TsxiY" name="Infrastructure As Code">
+    <mxGraphModel dx="1572" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c-cNLGhtR7kN3jHpFbbb-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c-cNLGhtR7kN3jHpFbbb-2" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="c-cNLGhtR7kN3jHpFbbb-1">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c-cNLGhtR7kN3jHpFbbb-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="c-cNLGhtR7kN3jHpFbbb-1">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hPUFbt0MHY6PboZw1qvH" name="Variables">
+    <mxGraphModel dx="1886" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="xDRxhKbfmoFVXawGBdCV-0" />
+        <mxCell id="xDRxhKbfmoFVXawGBdCV-1" parent="xDRxhKbfmoFVXawGBdCV-0" />
+        <mxCell id="lJogq_lBrOYEO_CYLTsc-0" value="" style="group" vertex="1" connectable="0" parent="xDRxhKbfmoFVXawGBdCV-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lJogq_lBrOYEO_CYLTsc-1" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="lJogq_lBrOYEO_CYLTsc-0">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lJogq_lBrOYEO_CYLTsc-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="lJogq_lBrOYEO_CYLTsc-0">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_nhHW2sUqLkdagpYfeoQ" name="Outputs ">
+    <mxGraphModel dx="1886" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0VGjP-UcVZeRpq4yrNkH-0" />
+        <mxCell id="0VGjP-UcVZeRpq4yrNkH-1" parent="0VGjP-UcVZeRpq4yrNkH-0" />
+        <mxCell id="IsSSAUdLHhgp38gNG8ml-0" value="" style="group" vertex="1" connectable="0" parent="0VGjP-UcVZeRpq4yrNkH-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IsSSAUdLHhgp38gNG8ml-1" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="IsSSAUdLHhgp38gNG8ml-0">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsSSAUdLHhgp38gNG8ml-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="IsSSAUdLHhgp38gNG8ml-0">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tKtzy-ykAPcoEbitvmh3" name="Remote State">
+    <mxGraphModel dx="1886" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0WEWbG3sAvrMnzbLRNHg-0" />
+        <mxCell id="0WEWbG3sAvrMnzbLRNHg-1" parent="0WEWbG3sAvrMnzbLRNHg-0" />
+        <mxCell id="geKYTJ1VimP0HjEg4trS-0" value="" style="group" vertex="1" connectable="0" parent="0WEWbG3sAvrMnzbLRNHg-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="geKYTJ1VimP0HjEg4trS-1" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="geKYTJ1VimP0HjEg4trS-0">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="geKYTJ1VimP0HjEg4trS-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="geKYTJ1VimP0HjEg4trS-0">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P5KdZf1IGiDiZfY7Wru-" name="Templates ">
+    <mxGraphModel dx="1886" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gY7UaB1iYdVsLq47TCrB-0" />
+        <mxCell id="gY7UaB1iYdVsLq47TCrB-1" parent="gY7UaB1iYdVsLq47TCrB-0" />
+        <mxCell id="JCvfTYbSXcek2sJKorla-0" value="" style="group" vertex="1" connectable="0" parent="gY7UaB1iYdVsLq47TCrB-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvfTYbSXcek2sJKorla-1" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="JCvfTYbSXcek2sJKorla-0">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JCvfTYbSXcek2sJKorla-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="JCvfTYbSXcek2sJKorla-0">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g9is8SRoiOvVDcSrJtag" name="Providers ">
+    <mxGraphModel dx="1886" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="XmRrBjE2826ZrUnz8_Hf-0" />
+        <mxCell id="XmRrBjE2826ZrUnz8_Hf-1" parent="XmRrBjE2826ZrUnz8_Hf-0" />
+        <mxCell id="Zqum7AZTjNbCzCRMPwZR-0" value="" style="group" vertex="1" connectable="0" parent="XmRrBjE2826ZrUnz8_Hf-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Zqum7AZTjNbCzCRMPwZR-1" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="Zqum7AZTjNbCzCRMPwZR-0">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zqum7AZTjNbCzCRMPwZR-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="Zqum7AZTjNbCzCRMPwZR-0">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0Uy7SKF6s5IpKvVI3PKh" name="Modules">
+    <mxGraphModel dx="1886" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="c4EENM_HzpwepRuPv5eD-0" />
+        <mxCell id="c4EENM_HzpwepRuPv5eD-1" parent="c4EENM_HzpwepRuPv5eD-0" />
+        <mxCell id="nyhJ1j9QjzSIslONotkg-0" value="" style="group" vertex="1" connectable="0" parent="c4EENM_HzpwepRuPv5eD-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nyhJ1j9QjzSIslONotkg-1" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="nyhJ1j9QjzSIslONotkg-0">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nyhJ1j9QjzSIslONotkg-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="nyhJ1j9QjzSIslONotkg-0">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Vx8i_06YvaS_9GkqPh-5" name="Commands ">
+    <mxGraphModel dx="1572" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="AqdzP3oMln0eKhk3Ofgk-0" />
+        <mxCell id="AqdzP3oMln0eKhk3Ofgk-1" parent="AqdzP3oMln0eKhk3Ofgk-0" />
+        <mxCell id="AqdzP3oMln0eKhk3Ofgk-7" value="" style="group" vertex="1" connectable="0" parent="AqdzP3oMln0eKhk3Ofgk-1">
+          <mxGeometry x="300" y="16.25" width="235" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AqdzP3oMln0eKhk3Ofgk-3" value="FullstacKAGE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="AqdzP3oMln0eKhk3Ofgk-7">
+          <mxGeometry x="30" y="13.75" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AqdzP3oMln0eKhk3Ofgk-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/p-le/p-le/main/assets/logo2.png;" vertex="1" parent="AqdzP3oMln0eKhk3Ofgk-7">
+          <mxGeometry width="47.5" height="47.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
